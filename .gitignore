@@ -1,0 +1,8 @@
+# Build and Object Folders
+/*/bin/
+/*/obj/
+.suo
+
+#packages
+/packages
+node_modules/

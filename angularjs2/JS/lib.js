@@ -20546,9 +20546,9 @@ if (typeof jQuery === 'undefined') {
       app: {
         defaultExtension: 'js',
         meta: {
-          './*.js': {
+            './*.js': {
             loader: 'src/systemjs-angular-loader.js'
-          }
+            }
         }
       },
       rxjs: {
